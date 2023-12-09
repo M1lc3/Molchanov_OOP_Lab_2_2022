@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VD1wUDwRP531otcuVs/ask5jMYQgtRFYS+I6fjPZIApuSxUhPrCgEv/1fVhVp1w3cus2Lutz74zqQA2xO3Azjg==",
+  "dgSpecHash": "u7Jk0HeuBPrjH9d47XjSFhMrHOXM8eG417gHYAVZPAb41I44gFt5SFSs8fqfZ62U8LQkbk00n+GxIbPR6kJknA==",
   "success": true,
   "projectFilePath": "C:\\!Dizox\\Лаби\\ЧНУ\\2022 рік 1 семестр 2 курсу\\ООП\\Лаба 2\\Lab_2\\Lab_2\\Lab_2.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Dizox\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
